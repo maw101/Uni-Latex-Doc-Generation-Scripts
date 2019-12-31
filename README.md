@@ -1,5 +1,5 @@
 # University Latex Document Generation Scripts
-A set of Python scripts which accept arguments allowing for a blank customised Latex Document to be generated from the command line.
+A set of Python scripts which accept arguments allowing for a blank customised Latex Document to be generated from the command line. These documents are used for assignments and problem sheets given through the course.
 
 ## Requirements
 * [Python 3](https://www.python.org/downloads/) (utilises os, argparse, subprocess libraries)
